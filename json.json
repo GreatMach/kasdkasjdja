@@ -19,7 +19,7 @@
           "buttontext": "Como jugar",
           "title1": "<TextStyle.Yellow>Como usar los kits gratuitos y mucho mas</>",
           "title2": "<TextStyle.Violet>Como Donar y recibirlo al instante</>",
-          "text1": "------------------------------------------------\n<RichColor Color=\"1,0,0,1\">¿Es tu primera vez en ArkRecio.com x25?</>\nLo primero que tienes que hacer es, pulsar el boton amarillo llamado: Free Points, Kits and Shop\nSigue el canal y escribe !vincular y sigue los pasos para vincular tu personaje con nuestro canal\nEn nuestro discord encontraras toda la info\n------------------------------------------------",
+          "text1": "--------------------<TextStyle.Red>¿Es tu primera vez en ArkRecio.com x25?</>--------------------\nLo primero que tienes que hacer es, pulsar el boton amarillo llamado: Free Points, Kits and Shop\nSigue el canal y escribe !vincular y sigue los pasos para vincular tu personaje con nuestro canal\nEn nuestro discord encontraras toda la info\n------------------------------------------------",
           "text2": "<TextStyle.Violet>This text goes into the top right box</>",
           "imageurl": "https://i.imgur.com/hfYRWZN.png"
         }
