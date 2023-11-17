@@ -20,7 +20,7 @@
           "title1": "<TextStyle.Yellow>Como usar los kits gratuitos y mucho mas</>",
           "title2": "<TextStyle.Violet>Como Donar y recibirlo al instante</>",
           
-          "text1": "----<TextStyle.White>¿Es tu primera vez en ArkRecio.com x25?</>----\nLos kits, tienda, puntos y VIP estan integrados en nuestro canal de twitch\n<RichColor Color=\"102,255,153,1\">Los dinos se compran ingame, con monedas que recibes cada 10 minutos</>\n<RichColor Color=\"255,255,0,1\">El envio esta totalmente automatizado, canjea en twitch y recibes ingame</>\n------------------------------------------------",
+          "text1": "----<TextStyle.White>¿Es tu primera vez en ArkRecio.com x25?</>----\n<RichColor Color=\"0,255,255,1\">Los kits, tienda, puntos y VIP estan integrados en nuestro canal de twitch</>\n<RichColor Color=\"102,255,153,1\">Los dinos se compran ingame, con monedas que recibes cada 10 minutos</>\n<RichColor Color=\"255,255,0,1\">El envio esta totalmente automatizado, canjea en twitch y recibes ingame</>\n------------------------------------------------",
           "text2": "<TextStyle.Violet>This text goes into the top right box</>",
           "imageurl": "https://i.imgur.com/hfYRWZN.png"
         }
