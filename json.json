@@ -40,8 +40,8 @@
     "links": [
       {
         "link1": {
-           "text": "<RichColor Color=\"0,102,255,1\">Discord</>",
-                "url": "https://discord.gg/BbVsgb7FDx"
+           "text": "<RichColor Color=\"255,0,255,1\">!link on Twitch.tv/ArkRecio</>",
+                "url": "https://www.twitch.tv/arkrecio"
         }
       },
       {
@@ -58,8 +58,8 @@
       },
       {
         "link4": {
-         "text": "<RichColor Color=\"255,0,255,1\">!link on Twitch.tv/ArkRecio</>",
-                "url": "https://www.twitch.tv/arkrecio"
+          "text": "<RichColor Color=\"0,102,255,1\">Discord</>",
+                "url": "https://discord.gg/BbVsgb7FDx"
         }
       }
     ]
