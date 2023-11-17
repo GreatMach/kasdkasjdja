@@ -19,7 +19,7 @@
           "buttontext": "Como jugar",
           "title1": "<TextStyle.Yellow>Como usar los kits gratuitos y mucho mas</>",
           "title2": "<TextStyle.Violet>Como Donar y recibirlo al instante</>",
-          "text1": "---------------<TextStyle.White>¿Es tu primera vez en ArkRecio.com x25?</>---------------\nLos kits, tienda, puntos y VIP estan integrados en nuestro canal de twitch.tv/ArkRecio\nLos dinos se pueden comprar ingame, con monedas que recibes cada 10 minutos\n<RichColor Color=\"255,255,255,1\">El envio esta totalmente automatizado, canjea en twitch y recibes ingame instantaneamente</>\n------------------------------------------------",
+          "text1": "----<TextStyle.White>¿Es tu primera vez en ArkRecio.com x25?</>----\nLos kits, tienda, puntos y VIP estan integrados en nuestro canal de twitch\n<RichColor Color=\"102,255,153,1\">Los dinos se compran ingame, con monedas que recibes cada 10 minutos</>\n<RichColor Color=\"255,255,0,1\">El envio esta totalmente automatizado, canjea en twitch y recibes ingame</>\n------------------------------------------------",
           "text2": "<TextStyle.Violet>This text goes into the top right box</>",
           "imageurl": "https://i.imgur.com/hfYRWZN.png"
         }
@@ -57,7 +57,7 @@
       },
       {
         "link4": {
-         "text": "<RichColor Color=\"255,255,0,1\">!link on Twitch.tv/ArkRecio</>",
+         "text": "<RichColor Color=\"255,153,51,1\">!link on Twitch.tv/ArkRecio</>",
                 "url": "https://www.twitch.tv/arkrecio"
         }
       }
