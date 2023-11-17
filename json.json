@@ -17,10 +17,10 @@
         "tab1": {
           "layout": 2,
           "buttontext": "Como jugar",
-          "title1": "<TextStyle.Yellow>Como usar los kits gratuitos y mucho mas</>",
-          "title2": "<TextStyle.Violet>Como Donar y recibirlo al instante</>",
+          "title1": "<TextStyle.Yellow>|Como usar los kits gratuitos y mucho mas|</>",
+          "title2": "<TextStyle.Violet>-- Como Donar y recibirlo al instante --</>",
           
-          "text1": "----<TextStyle.Green>¿Es tu primera vez en ArkRecio.com x25?</>----\n<RichColor Color=\"0,255,255,1\">Los kits, tienda, puntos y VIP estan integrados en nuestro canal de twitch</>\n<RichColor Color=\"255,255,255,1\">Los dinos se compran ingame, con monedas que recibes cada 10 minutos</>\n<RichColor Color=\"255,255,0,1\">El envio esta totalmente automatizado, canjea en twitch y recibes ingame</>\n------------------------------------------------\n<TextStyle.Green>+ Como vincular mi personaje en el canal de ArkRecio +</>\n<TextStyle.Orange>Paso 1.</>\nVisita nuestro canal twitch.tv/ArkRecio y siguenos para comenzar a ganar puntos\n<TextStyle.Orange>Paso 2.</>\nVincula tu personaje con nuestro canal de twitch, escribe !vincular y sigue los pasos\n<TextStyle.Orange>Paso 3.</>\nUnete al discord para ver todo lo que puedes canjear y toda la info en KITS Y TIENDA\n<TextStyle.Orange>Paso 4.</>\nDisfruta y diviertete en ARK RECIO x25\n",
+          "text1": "<TextStyle.Green>+ ¿Es tu primera vez en ArkRecio.com x25? +</>\n<RichColor Color=\"0,255,255,1\">Los kits, tienda, puntos y VIP estan integrados en nuestro canal de twitch</>\n<RichColor Color=\"255,255,255,1\">Los dinos se compran ingame, con monedas que recibes cada 10 minutos</>\n<RichColor Color=\"255,255,0,1\">El envio esta totalmente automatizado, canjea en twitch y recibes ingame</>\n------------------------------------------------\n<TextStyle.Green>+ Como vincular mi personaje en el canal de ArkRecio +</>\n<TextStyle.Orange>Paso 1.</>\nVisita nuestro canal twitch.tv/ArkRecio y siguenos para comenzar a ganar puntos\n<TextStyle.Orange>Paso 2.</>\nVincula tu personaje con nuestro canal de twitch, escribe !vincular y sigue los pasos\n<TextStyle.Orange>Paso 3.</>\nUnete al discord para ver todo lo que puedes canjear y toda la info en KITS Y TIENDA\n<TextStyle.Orange>Paso 4.</>\nDisfruta y diviertete en ARK RECIO x25\n",
           "text2": "<TextStyle.Violet>This text goes into the top right box</>",
           "imageurl": "https://i.imgur.com/hfYRWZN.png"
         }
