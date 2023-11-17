@@ -54,6 +54,12 @@
          "text": "<RichColor Color=\"255,255,0,1\">Free Points, Kits and Shop</>",
                 "url": "https://www.twitch.tv/arkrecio"
         }
+      },
+      {
+        "link4": {
+         "text": "<RichColor Color=\"255,255,0,1\">!link on Twitch.tv/ArkRecio</>",
+                "url": "https://www.twitch.tv/arkrecio"
+        }
       }
     ]
   }
