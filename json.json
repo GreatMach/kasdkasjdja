@@ -17,8 +17,8 @@
         "tab1": {
           "layout": 2,
           "buttontext": "Como jugar",
-          "title1": "Como usar los kits gratuitos y mucho mas",
-          "title2": "Como Donar y recibirlo al instante",
+          "title1": "<TextStyle.Yellow>Como usar los kits gratuitos y mucho mas</>",
+          "title2": "<TextStyle.Violet>Como Donar y recibirlo al instante</>",
           "text1": "<TextStyle.Orange>This text goes into the top left box</>",
           "text2": "<TextStyle.Violet>This text goes into the top right box</>",
           "imageurl": "https://i.imgur.com/hfYRWZN.png"
