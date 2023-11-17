@@ -16,7 +16,7 @@
       {
         "tab1": {
           "layout": 2,
-          "buttontext": "Como jugar",
+          "buttontext": "Como jugar: Kits, tienda y mas",
           "title1": "<TextStyle.Yellow>- Como usar los kits gratuitos y mucho mas -</>",
           "title2": "<TextStyle.Violet>-- Como Donar y recibirlo al instante --</>",
           
@@ -28,7 +28,7 @@
       {
         "tab2": {
           "layout": 2,
-          "buttontext": "How to Play",
+          "buttontext": "How to Play: Kits, Shop and more",
           "title1": "<TextStyle.Yellow>- How to use the free kits and much more -</>",
           "title2": "<TextStyle.Violet>-- How to donate and receive it instantly --</>",
           "text1": "<TextStyle.Green>+ Is this your first time at ArkRecio.com x25? +</>\n<RichColor Color=\"0,255,255,1\">The kits, store, points and VIP are integrated into our twitch channel</>\n<RichColor Color=\"255,255,255,1\"> The dinos are bought ingame, with coins that you receive every 10 minutes</>\n<RichColor Color=\"255,255,0,1\">Shipping is fully automated, redeem on twitch and you receive ingame</>\n\n<TextStyle.Green>+ How to link my character to the ArkRecio channel +</>\n<TextStyle.Orange>Step 1.</>\nVisit our channel twitch.tv/ArkRecio and follow us to start earning points\n<TextStyle.Orange>Step 2.</>\nLink your character with our Twitch channel, type !link and follow the steps\n<TextStyle.Orange>Step 3.</>\nJoin the discord to see everything that you can redeem and all the information in KITS AND STORE\n<TextStyle.Orange>Step 4.</>\nEnjoy and have fun in ARK RECIO x25\n",
