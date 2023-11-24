@@ -61,6 +61,12 @@
           "text": "<RichColor Color=\"0,102,255,1\">Discord</>",
                 "url": "https://discord.gg/BbVsgb7FDx"
         }
+      },
+      {
+        "link5": {
+          "text": "<RichColor Color=\"0,255,0,1\">Buy Coins</>",
+                "url": "https://arkrecio.com/tienda/recio-asa-x25/comprar-monedas-asa/"
+        }
       }
     ]
   }
